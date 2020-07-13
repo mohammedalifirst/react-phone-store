@@ -1,0 +1,15 @@
+{
+    "hostenv": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-feedsample-hostenv-181110-authRole",
+            "UnauthRoleArn": "arn:aws:iam::052680937846:role/amplify-feedsample-hostenv-181110-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::052680937846:role/amplify-feedsample-hostenv-181110-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-feedsample-hostenv-181110-deployment",
+            "UnauthRoleName": "amplify-feedsample-hostenv-181110-unauthRole",
+            "StackName": "amplify-feedsample-hostenv-181110",
+            "StackId": "arn:aws:cloudformation:us-east-1:052680937846:stack/amplify-feedsample-hostenv-181110/92bba170-a0e0-11ea-a747-0a254e00bc9f",
+            "AmplifyAppId": "d3lf93xjnahaz"
+        }
+    }
+}
